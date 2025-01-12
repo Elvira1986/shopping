@@ -1,9 +1,14 @@
-# React + Vite
+# Shopping MVP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is E-commerce clothing Store where you can buy new and modern sport cloth for every work out you desire.
 
-Currently, two official plugins are available:
+## Used Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# shopping
+Front-end: JavaScript/ReactJS/Vite, CSS3, HTML5
+
+## Clone and Set Up Dependencies:
+
+- git clone https://github.com/Elvira1986/shopping.git
+- cd to shopping folder and run `npm install` to install dependencies related to React.
+- `npm install -D sass` - install SASS
+- `npm install react-router-dom axios` - install react router and axios;

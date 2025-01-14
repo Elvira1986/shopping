@@ -12,3 +12,4 @@ Front-end: JavaScript/ReactJS/Vite, CSS3, HTML5
 - cd to shopping folder and run `npm install` to install dependencies related to React.
 - `npm install -D sass` - install SASS
 - `npm install react-router-dom axios` - install react router and axios;
+- `npm install vite-plugin-svgr` - install .svg logo

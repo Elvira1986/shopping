@@ -1,6 +1,6 @@
 # Shopping MVP
 
-This is E-commerce clothing Store where you can buy new and modern sport cloth for every work out you desire.
+This is E-commerce clothing Store where you can buy new and modern sport cloth for every work out you desire. Inspired by Lululemon - the sport wear for lifestyle.
 
 ## Used Technologies
 
@@ -13,3 +13,7 @@ Front-end: JavaScript/ReactJS/Vite, CSS3, HTML5
 - `npm install -D sass` - install SASS
 - `npm install react-router-dom axios` - install react router and axios;
 - `npm install vite-plugin-svgr` - install .svg logo
+
+## To run local version:
+
+-`npm run dev` in local terminal and `http://localhost:5173/`

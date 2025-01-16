@@ -3,6 +3,8 @@ import { Fragment, useContext } from "react";
 import { Outlet, Link } from "react-router-dom";
 import Logo from "../../assets/lululemon.svg?react";
 import { UserContext } from "../../contexts/userContext";
+import CartIcon from "../../components/card-icon/cart-icon";
+import CartDropdown from "../../components/card-dropdown/card-dropdown";
 import { signOutUser } from "../../utils/firebase/firebase";
 import "./navigation.scss";
 
@@ -28,7 +30,9 @@ const Navigation = () => {
               SIGN IN
             </Link>
           )}
+          <CartIcon />
         </div>
+        <CartDropdown />
       </div>
       <Outlet />
     </Fragment>

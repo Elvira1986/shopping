@@ -13,6 +13,7 @@ Front-end: JavaScript/ReactJS/Vite, CSS3, HTML5
 - `npm install -D sass` - install SASS
 - `npm install react-router-dom axios` - install react router and axios;
 - `npm install vite-plugin-svgr` - install .svg logo
+- `npm install styled-components` - install styled components
 
 ## To run local version:
 

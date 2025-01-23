@@ -1,6 +1,7 @@
 import { useContext, Fragment } from "react";
 import { CategoriesContext } from "../../contexts/categoriesContext";
 import CategoryPreview from "../../components/category-preview/category-preview";
+import "./categories-preview.scss";
 
 const CategoriesPreview = () => {
   const { categoriesMap } = useContext(CategoriesContext);

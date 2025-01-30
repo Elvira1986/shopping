@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <Fragment>
       <footer>
-        <p>Made with Love</p>
+        <p>Made with &#x2665; </p>
         <p>Copywrite &#169; {year}</p>
       </footer>
     </Fragment>
